@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:green_1_planks"
+    },
+    "3": {
+      "item": "colored:green_1_planks"
+    },
+    "4": {
+      "item": "colored:green_1_planks"
+    },
+    "6": {
+      "item": "colored:green_1_planks"
+    },
+    "7": {
+      "item": "colored:green_1_planks"
+    },
+    "8": {
+      "item": "colored:green_1_planks"
+    }
+  },
+  "result": {
+    "item": "colored:green_1_stairs",
+    "count": 4
+  }
+}

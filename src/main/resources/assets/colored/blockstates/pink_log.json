@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "colored:block/pink_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "colored:block/pink_log"
+    },
+    "axis=z": {
+      "model": "colored:block/pink_log",
+      "x": 90
+    }
+  }
+}

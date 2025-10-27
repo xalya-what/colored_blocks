@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "colored:white"
+    },
+    "1": {
+      "item": "colored:white"
+    },
+    "2": {
+      "item": "colored:white"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "colored:white_pickaxe",
+    "count": 1
+  }
+}

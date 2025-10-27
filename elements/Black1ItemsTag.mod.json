@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Black1Wood"
+      },
+      {
+        "value": "CUSTOM:Black1Log"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "black1_log",
+    "namespace": "forge"
+  }
+}

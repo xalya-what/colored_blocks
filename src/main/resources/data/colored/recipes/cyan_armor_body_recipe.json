@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:cyan"
+    },
+    "2": {
+      "item": "colored:cyan"
+    },
+    "3": {
+      "item": "colored:cyan"
+    },
+    "4": {
+      "item": "colored:cyan"
+    },
+    "5": {
+      "item": "colored:cyan"
+    },
+    "6": {
+      "item": "colored:cyan"
+    },
+    "7": {
+      "item": "colored:cyan"
+    },
+    "8": {
+      "item": "colored:cyan"
+    }
+  },
+  "result": {
+    "item": "colored:cyan_armor_chestplate",
+    "count": 1
+  }
+}

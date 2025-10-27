@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:yellow1_log"
+    }
+  ],
+  "result": {
+    "item": "colored:yellow_1_planks",
+    "count": 4
+  }
+}

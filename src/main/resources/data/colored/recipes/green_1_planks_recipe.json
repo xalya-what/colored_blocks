@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:green1_log"
+    }
+  ],
+  "result": {
+    "item": "colored:green_1_planks",
+    "count": 4
+  }
+}

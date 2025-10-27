@@ -1,0 +1,2524 @@
+{
+  "mod_elements": [
+    {
+      "name": "Green",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green"
+    },
+    {
+      "name": "GreenOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "green_ore"
+    },
+    {
+      "name": "GreenBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_block"
+    },
+    {
+      "name": "GreenOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_ore_block_recipe"
+    },
+    {
+      "name": "GreenBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_block_ore_recipe"
+    },
+    {
+      "name": "GreenOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_ore_smelting"
+    },
+    {
+      "name": "GreenPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "green_pickaxe"
+    },
+    {
+      "name": "GreenAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_axe"
+    },
+    {
+      "name": "GreenSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_sword"
+    },
+    {
+      "name": "GreenShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "green_shovel"
+    },
+    {
+      "name": "GreenHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_hoe"
+    },
+    {
+      "name": "GreenPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_pickaxe_recipe"
+    },
+    {
+      "name": "GreenAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_axe_recipe"
+    },
+    {
+      "name": "GreenSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_sword_recipe"
+    },
+    {
+      "name": "GreenShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_shovel_recipe"
+    },
+    {
+      "name": "GreenHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_hoe_recipe"
+    },
+    {
+      "name": "GreenArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "green_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GreenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_helmet_recipe"
+    },
+    {
+      "name": "GreenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_body_recipe"
+    },
+    {
+      "name": "GreenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_leggings_recipe"
+    },
+    {
+      "name": "GreenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_boots_recipe"
+    },
+    {
+      "name": "Green1Wood",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_wood"
+    },
+    {
+      "name": "Green1Log",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_log"
+    },
+    {
+      "name": "Green1Planks",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_planks"
+    },
+    {
+      "name": "Green1Leaves",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_leaves"
+    },
+    {
+      "name": "Green1Stairs",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_stairs"
+    },
+    {
+      "name": "Green1Slab",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_slab"
+    },
+    {
+      "name": "Green1Fence",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_fence"
+    },
+    {
+      "name": "Green1FenceGate",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_fence_gate"
+    },
+    {
+      "name": "Green1PressurePlate",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_pressure_plate"
+    },
+    {
+      "name": "Green1Button",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_button"
+    },
+    {
+      "name": "Green1ItemsTag",
+      "type": "tag",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_items_tag"
+    },
+    {
+      "name": "Green1WoodRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_wood_recipe"
+    },
+    {
+      "name": "Green1PlanksRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_planks_recipe"
+    },
+    {
+      "name": "Green1StairsRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_stairs_recipe"
+    },
+    {
+      "name": "Green1SlabRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_slab_recipe"
+    },
+    {
+      "name": "Green1FenceRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_fence_recipe"
+    },
+    {
+      "name": "Green1FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_fence_gate_recipe"
+    },
+    {
+      "name": "Green1PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_pressure_plate_recipe"
+    },
+    {
+      "name": "Green1ButtonRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_button_recipe"
+    },
+    {
+      "name": "Green1StickRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_1_stick_recipe"
+    },
+    {
+      "name": "Red",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red"
+    },
+    {
+      "name": "RedOre",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_ore"
+    },
+    {
+      "name": "RedBlock",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_block"
+    },
+    {
+      "name": "RedOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_ore_block_recipe"
+    },
+    {
+      "name": "RedBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_block_ore_recipe"
+    },
+    {
+      "name": "RedOreSmelting",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_ore_smelting"
+    },
+    {
+      "name": "RedPickaxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_pickaxe"
+    },
+    {
+      "name": "RedAxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_axe"
+    },
+    {
+      "name": "RedSword",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_sword"
+    },
+    {
+      "name": "RedShovel",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "red_shovel"
+    },
+    {
+      "name": "RedHoe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "red_hoe"
+    },
+    {
+      "name": "RedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_pickaxe_recipe"
+    },
+    {
+      "name": "RedAxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_axe_recipe"
+    },
+    {
+      "name": "RedSwordRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_sword_recipe"
+    },
+    {
+      "name": "RedShovelRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_shovel_recipe"
+    },
+    {
+      "name": "RedHoeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_hoe_recipe"
+    },
+    {
+      "name": "RedArmor",
+      "type": "armor",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RedArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_armor_helmet_recipe"
+    },
+    {
+      "name": "RedArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_armor_body_recipe"
+    },
+    {
+      "name": "RedArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_armor_leggings_recipe"
+    },
+    {
+      "name": "RedArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_armor_boots_recipe"
+    },
+    {
+      "name": "Red1Wood",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_wood"
+    },
+    {
+      "name": "Red1Log",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_log"
+    },
+    {
+      "name": "Red1Planks",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_planks"
+    },
+    {
+      "name": "Red1Leaves",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_leaves"
+    },
+    {
+      "name": "Red1Stairs",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_stairs"
+    },
+    {
+      "name": "Red1Slab",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_slab"
+    },
+    {
+      "name": "Red1Fence",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_fence"
+    },
+    {
+      "name": "Red1FenceGate",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_fence_gate"
+    },
+    {
+      "name": "Red1PressurePlate",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_pressure_plate"
+    },
+    {
+      "name": "Red1Button",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_button"
+    },
+    {
+      "name": "Red1ItemsTag",
+      "type": "tag",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_items_tag"
+    },
+    {
+      "name": "Red1WoodRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_wood_recipe"
+    },
+    {
+      "name": "Red1PlanksRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_planks_recipe"
+    },
+    {
+      "name": "Red1StairsRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_stairs_recipe"
+    },
+    {
+      "name": "Red1SlabRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_slab_recipe"
+    },
+    {
+      "name": "Red1FenceRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_fence_recipe"
+    },
+    {
+      "name": "Red1FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_fence_gate_recipe"
+    },
+    {
+      "name": "Red1PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_pressure_plate_recipe"
+    },
+    {
+      "name": "Red1ButtonRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_button_recipe"
+    },
+    {
+      "name": "Red1StickRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_1_stick_recipe"
+    },
+    {
+      "name": "Cyan",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan"
+    },
+    {
+      "name": "CyanOre",
+      "type": "block",
+      "sortid": 84,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "cyan_ore"
+    },
+    {
+      "name": "CyanBlock",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_block"
+    },
+    {
+      "name": "CyanOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_ore_block_recipe"
+    },
+    {
+      "name": "CyanBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_block_ore_recipe"
+    },
+    {
+      "name": "CyanOreSmelting",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_ore_smelting"
+    },
+    {
+      "name": "CyanPickaxe",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "cyan_pickaxe"
+    },
+    {
+      "name": "CyanAxe",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "cyan_axe"
+    },
+    {
+      "name": "CyanSword",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_sword"
+    },
+    {
+      "name": "CyanShovel",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "cyan_shovel"
+    },
+    {
+      "name": "CyanHoe",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "cyan_hoe"
+    },
+    {
+      "name": "CyanPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_pickaxe_recipe"
+    },
+    {
+      "name": "CyanAxeRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_axe_recipe"
+    },
+    {
+      "name": "CyanSwordRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_sword_recipe"
+    },
+    {
+      "name": "CyanShovelRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_shovel_recipe"
+    },
+    {
+      "name": "CyanHoeRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_hoe_recipe"
+    },
+    {
+      "name": "CyanArmor",
+      "type": "armor",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CyanArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_armor_helmet_recipe"
+    },
+    {
+      "name": "CyanArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_armor_body_recipe"
+    },
+    {
+      "name": "CyanArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_armor_leggings_recipe"
+    },
+    {
+      "name": "CyanArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_armor_boots_recipe"
+    },
+    {
+      "name": "Cyan1Wood",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_wood"
+    },
+    {
+      "name": "Cyan1Log",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_log"
+    },
+    {
+      "name": "Cyan1Planks",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_planks"
+    },
+    {
+      "name": "Cyan1Leaves",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_leaves"
+    },
+    {
+      "name": "Cyan1Stairs",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_stairs"
+    },
+    {
+      "name": "Cyan1Slab",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_slab"
+    },
+    {
+      "name": "Cyan1Fence",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_fence"
+    },
+    {
+      "name": "Cyan1FenceGate",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_fence_gate"
+    },
+    {
+      "name": "Cyan1PressurePlate",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_pressure_plate"
+    },
+    {
+      "name": "Cyan1Button",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_button"
+    },
+    {
+      "name": "Cyan1ItemsTag",
+      "type": "tag",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_items_tag"
+    },
+    {
+      "name": "Cyan1WoodRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_wood_recipe"
+    },
+    {
+      "name": "Cyan1PlanksRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_planks_recipe"
+    },
+    {
+      "name": "Cyan1StairsRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_stairs_recipe"
+    },
+    {
+      "name": "Cyan1SlabRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_slab_recipe"
+    },
+    {
+      "name": "Cyan1FenceRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_fence_recipe"
+    },
+    {
+      "name": "Cyan1FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_fence_gate_recipe"
+    },
+    {
+      "name": "Cyan1PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_pressure_plate_recipe"
+    },
+    {
+      "name": "Cyan1ButtonRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_button_recipe"
+    },
+    {
+      "name": "Cyan1StickRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_1_stick_recipe"
+    },
+    {
+      "name": "Yellow",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow"
+    },
+    {
+      "name": "YellowOre",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_ore"
+    },
+    {
+      "name": "YellowBlock",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_block"
+    },
+    {
+      "name": "YellowOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_ore_block_recipe"
+    },
+    {
+      "name": "YellowBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_block_ore_recipe"
+    },
+    {
+      "name": "YellowOreSmelting",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_ore_smelting"
+    },
+    {
+      "name": "YellowPickaxe",
+      "type": "tool",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_pickaxe"
+    },
+    {
+      "name": "YellowAxe",
+      "type": "tool",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_axe"
+    },
+    {
+      "name": "YellowSword",
+      "type": "tool",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_sword"
+    },
+    {
+      "name": "YellowShovel",
+      "type": "tool",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_shovel"
+    },
+    {
+      "name": "YellowHoe",
+      "type": "tool",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_hoe"
+    },
+    {
+      "name": "YellowPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_pickaxe_recipe"
+    },
+    {
+      "name": "YellowAxeRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_axe_recipe"
+    },
+    {
+      "name": "YellowSwordRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_sword_recipe"
+    },
+    {
+      "name": "YellowShovelRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_shovel_recipe"
+    },
+    {
+      "name": "YellowHoeRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_hoe_recipe"
+    },
+    {
+      "name": "YellowArmor",
+      "type": "armor",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "YellowArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_armor_helmet_recipe"
+    },
+    {
+      "name": "YellowArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_armor_body_recipe"
+    },
+    {
+      "name": "YellowArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_armor_leggings_recipe"
+    },
+    {
+      "name": "YellowArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_armor_boots_recipe"
+    },
+    {
+      "name": "Yellow1Wood",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_wood"
+    },
+    {
+      "name": "Yellow1Log",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_log"
+    },
+    {
+      "name": "Yellow1Planks",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_planks"
+    },
+    {
+      "name": "Yellow1Leaves",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_leaves"
+    },
+    {
+      "name": "Yellow1Stairs",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_stairs"
+    },
+    {
+      "name": "Yellow1Slab",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_slab"
+    },
+    {
+      "name": "Yellow1Fence",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_fence"
+    },
+    {
+      "name": "Yellow1FenceGate",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_fence_gate"
+    },
+    {
+      "name": "Yellow1PressurePlate",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_pressure_plate"
+    },
+    {
+      "name": "Yellow1Button",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_button"
+    },
+    {
+      "name": "Yellow1ItemsTag",
+      "type": "tag",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_items_tag"
+    },
+    {
+      "name": "Yellow1WoodRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_wood_recipe"
+    },
+    {
+      "name": "Yellow1PlanksRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_planks_recipe"
+    },
+    {
+      "name": "Yellow1StairsRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_stairs_recipe"
+    },
+    {
+      "name": "Yellow1SlabRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_slab_recipe"
+    },
+    {
+      "name": "Yellow1FenceRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_fence_recipe"
+    },
+    {
+      "name": "Yellow1FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_fence_gate_recipe"
+    },
+    {
+      "name": "Yellow1PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_pressure_plate_recipe"
+    },
+    {
+      "name": "Yellow1ButtonRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_button_recipe"
+    },
+    {
+      "name": "Yellow1StickRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_1_stick_recipe"
+    },
+    {
+      "name": "PinkWood",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wood"
+    },
+    {
+      "name": "PinkLog",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_log"
+    },
+    {
+      "name": "PinkPlanks",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_planks"
+    },
+    {
+      "name": "PinkLeaves",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_leaves"
+    },
+    {
+      "name": "PinkStairs",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_stairs"
+    },
+    {
+      "name": "PinkSlab",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_slab"
+    },
+    {
+      "name": "PinkFence",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_fence"
+    },
+    {
+      "name": "PinkFenceGate",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_fence_gate"
+    },
+    {
+      "name": "PinkPressurePlate",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_pressure_plate"
+    },
+    {
+      "name": "PinkButton",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_button"
+    },
+    {
+      "name": "PinkItemsTag",
+      "type": "tag",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_items_tag"
+    },
+    {
+      "name": "PinkWoodRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wood_recipe"
+    },
+    {
+      "name": "PinkPlanksRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_planks_recipe"
+    },
+    {
+      "name": "PinkStairsRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_stairs_recipe"
+    },
+    {
+      "name": "PinkSlabRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_slab_recipe"
+    },
+    {
+      "name": "PinkFenceRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_fence_recipe"
+    },
+    {
+      "name": "PinkFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_fence_gate_recipe"
+    },
+    {
+      "name": "PinkPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_pressure_plate_recipe"
+    },
+    {
+      "name": "PinkButtonRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_button_recipe"
+    },
+    {
+      "name": "PinkStickRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_stick_recipe"
+    },
+    {
+      "name": "Pink1",
+      "type": "item",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1"
+    },
+    {
+      "name": "Pink1Ore",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_ore"
+    },
+    {
+      "name": "Pink1Block",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_block"
+    },
+    {
+      "name": "Pink1OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_ore_block_recipe"
+    },
+    {
+      "name": "Pink1BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_block_ore_recipe"
+    },
+    {
+      "name": "Pink1OreSmelting",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_ore_smelting"
+    },
+    {
+      "name": "Pink1Pickaxe",
+      "type": "tool",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_pickaxe"
+    },
+    {
+      "name": "Pink1Axe",
+      "type": "tool",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_axe"
+    },
+    {
+      "name": "Pink1Sword",
+      "type": "tool",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_sword"
+    },
+    {
+      "name": "Pink1Shovel",
+      "type": "tool",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_shovel"
+    },
+    {
+      "name": "Pink1Hoe",
+      "type": "tool",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_hoe"
+    },
+    {
+      "name": "Pink1PickaxeRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_pickaxe_recipe"
+    },
+    {
+      "name": "Pink1AxeRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_axe_recipe"
+    },
+    {
+      "name": "Pink1SwordRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_sword_recipe"
+    },
+    {
+      "name": "Pink1ShovelRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_shovel_recipe"
+    },
+    {
+      "name": "Pink1HoeRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_hoe_recipe"
+    },
+    {
+      "name": "Pink1Armor",
+      "type": "armor",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Pink1ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_armor_helmet_recipe"
+    },
+    {
+      "name": "Pink1ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_armor_body_recipe"
+    },
+    {
+      "name": "Pink1ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_armor_leggings_recipe"
+    },
+    {
+      "name": "Pink1ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_1_armor_boots_recipe"
+    },
+    {
+      "name": "White",
+      "type": "item",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white"
+    },
+    {
+      "name": "WhiteOre",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_ore"
+    },
+    {
+      "name": "WhiteBlock",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_block"
+    },
+    {
+      "name": "WhiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_ore_block_recipe"
+    },
+    {
+      "name": "WhiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_block_ore_recipe"
+    },
+    {
+      "name": "WhiteOreSmelting",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_ore_smelting"
+    },
+    {
+      "name": "WhitePickaxe",
+      "type": "tool",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_pickaxe"
+    },
+    {
+      "name": "WhiteAxe",
+      "type": "tool",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_axe"
+    },
+    {
+      "name": "WhiteSword",
+      "type": "tool",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_sword"
+    },
+    {
+      "name": "WhiteShovel",
+      "type": "tool",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_shovel"
+    },
+    {
+      "name": "WhiteHoe",
+      "type": "tool",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_hoe"
+    },
+    {
+      "name": "WhitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_pickaxe_recipe"
+    },
+    {
+      "name": "WhiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_axe_recipe"
+    },
+    {
+      "name": "WhiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_sword_recipe"
+    },
+    {
+      "name": "WhiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_shovel_recipe"
+    },
+    {
+      "name": "WhiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_hoe_recipe"
+    },
+    {
+      "name": "WhiteArmor",
+      "type": "armor",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "WhiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_armor_helmet_recipe"
+    },
+    {
+      "name": "WhiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_armor_body_recipe"
+    },
+    {
+      "name": "WhiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_armor_leggings_recipe"
+    },
+    {
+      "name": "WhiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_armor_boots_recipe"
+    },
+    {
+      "name": "White1Wood",
+      "type": "block",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_wood"
+    },
+    {
+      "name": "White1Log",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_log"
+    },
+    {
+      "name": "White1Planks",
+      "type": "block",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_planks"
+    },
+    {
+      "name": "White1Leaves",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_leaves"
+    },
+    {
+      "name": "White1Stairs",
+      "type": "block",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_stairs"
+    },
+    {
+      "name": "White1Slab",
+      "type": "block",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_slab"
+    },
+    {
+      "name": "White1Fence",
+      "type": "block",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_fence"
+    },
+    {
+      "name": "White1FenceGate",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_fence_gate"
+    },
+    {
+      "name": "White1PressurePlate",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_pressure_plate"
+    },
+    {
+      "name": "White1Button",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_button"
+    },
+    {
+      "name": "White1ItemsTag",
+      "type": "tag",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_items_tag"
+    },
+    {
+      "name": "White1WoodRecipe",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_wood_recipe"
+    },
+    {
+      "name": "White1PlanksRecipe",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_planks_recipe"
+    },
+    {
+      "name": "White1StairsRecipe",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_stairs_recipe"
+    },
+    {
+      "name": "White1SlabRecipe",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_slab_recipe"
+    },
+    {
+      "name": "White1FenceRecipe",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_fence_recipe"
+    },
+    {
+      "name": "White1FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_fence_gate_recipe"
+    },
+    {
+      "name": "White1PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_pressure_plate_recipe"
+    },
+    {
+      "name": "White1ButtonRecipe",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_button_recipe"
+    },
+    {
+      "name": "White1StickRecipe",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_1_stick_recipe"
+    },
+    {
+      "name": "Black",
+      "type": "item",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black"
+    },
+    {
+      "name": "BlackOre",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_ore"
+    },
+    {
+      "name": "BlackBlock",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_block"
+    },
+    {
+      "name": "BlackOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_ore_block_recipe"
+    },
+    {
+      "name": "BlackBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_block_ore_recipe"
+    },
+    {
+      "name": "BlackOreSmelting",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_ore_smelting"
+    },
+    {
+      "name": "BlackPickaxe",
+      "type": "tool",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_pickaxe"
+    },
+    {
+      "name": "BlackAxe",
+      "type": "tool",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_axe"
+    },
+    {
+      "name": "BlackSword",
+      "type": "tool",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sword"
+    },
+    {
+      "name": "BlackShovel",
+      "type": "tool",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_shovel"
+    },
+    {
+      "name": "BlackHoe",
+      "type": "tool",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_hoe"
+    },
+    {
+      "name": "BlackPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_pickaxe_recipe"
+    },
+    {
+      "name": "BlackAxeRecipe",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_axe_recipe"
+    },
+    {
+      "name": "BlackSwordRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_sword_recipe"
+    },
+    {
+      "name": "BlackShovelRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_shovel_recipe"
+    },
+    {
+      "name": "BlackHoeRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_hoe_recipe"
+    },
+    {
+      "name": "BlackArmor",
+      "type": "armor",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BlackArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_armor_helmet_recipe"
+    },
+    {
+      "name": "BlackArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_armor_body_recipe"
+    },
+    {
+      "name": "BlackArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_armor_leggings_recipe"
+    },
+    {
+      "name": "BlackArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_armor_boots_recipe"
+    },
+    {
+      "name": "Black1Wood",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_wood"
+    },
+    {
+      "name": "Black1Log",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_log"
+    },
+    {
+      "name": "Black1Planks",
+      "type": "block",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_planks"
+    },
+    {
+      "name": "Black1Leaves",
+      "type": "block",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_leaves"
+    },
+    {
+      "name": "Black1Stairs",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_stairs"
+    },
+    {
+      "name": "Black1Slab",
+      "type": "block",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_slab"
+    },
+    {
+      "name": "Black1Fence",
+      "type": "block",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_fence"
+    },
+    {
+      "name": "Black1FenceGate",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_fence_gate"
+    },
+    {
+      "name": "Black1PressurePlate",
+      "type": "block",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_pressure_plate"
+    },
+    {
+      "name": "Black1Button",
+      "type": "block",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_button"
+    },
+    {
+      "name": "Black1ItemsTag",
+      "type": "tag",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_items_tag"
+    },
+    {
+      "name": "Black1WoodRecipe",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_wood_recipe"
+    },
+    {
+      "name": "Black1PlanksRecipe",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_planks_recipe"
+    },
+    {
+      "name": "Black1StairsRecipe",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_stairs_recipe"
+    },
+    {
+      "name": "Black1SlabRecipe",
+      "type": "recipe",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_slab_recipe"
+    },
+    {
+      "name": "Black1FenceRecipe",
+      "type": "recipe",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_fence_recipe"
+    },
+    {
+      "name": "Black1FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_fence_gate_recipe"
+    },
+    {
+      "name": "Black1PressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_pressure_plate_recipe"
+    },
+    {
+      "name": "Black1ButtonRecipe",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_button_recipe"
+    },
+    {
+      "name": "Black1StickRecipe",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_1_stick_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.colored.cyan": "Cyan",
+      "item.colored.green_shovel": "Green Shovel",
+      "item.colored.green_armor_helmet": "Green Helmet",
+      "block.colored.cyan_1_fence_gate": "Cyan1 Fence Gate",
+      "block.colored.pink_fence_gate": "Pink Fence Gate",
+      "item.colored.pink_1_pickaxe": "Pink1 Pickaxe",
+      "block.colored.pink_1_block": "Block of Pink1",
+      "block.colored.cyan_1_pressure_plate": "Cyan1 Pressure Plate",
+      "block.colored.red_ore": "Red Ore",
+      "block.colored.pink_leaves": "Pink Leaves",
+      "block.colored.green_1_wood": "Green1 Wood",
+      "item.colored.red_armor_boots": "Red Boots",
+      "block.colored.pink_stairs": "Pink Stairs",
+      "item.colored.black_pickaxe": "Black Pickaxe",
+      "item.colored.pink_1_sword": "Pink1 Sword",
+      "item.colored.cyan_hoe": "Cyan Hoe",
+      "block.colored.black_ore": "Black Ore",
+      "block.colored.cyan_1_wood": "Cyan1 Wood",
+      "block.colored.cyan_ore": "Cyan Ore",
+      "block.colored.red_1_stairs": "Red1 Stairs",
+      "block.colored.white_1_planks": "White1 Planks",
+      "block.colored.black_1_planks": "Black1 Planks",
+      "block.colored.black_1_pressure_plate": "Black1 Pressure Plate",
+      "item.colored.red_armor_helmet": "Red Helmet",
+      "item.colored.yellow_armor_helmet": "Yellow Helmet",
+      "item.colored.white_armor_chestplate": "White Chestplate",
+      "block.colored.red_1_fence_gate": "Red1 Fence Gate",
+      "block.colored.green_block": "Block of Green",
+      "block.colored.cyan_1_planks": "Cyan1 Planks",
+      "item.colored.green_sword": "Green Sword",
+      "item.colored.black_armor_boots": "Black Boots",
+      "block.colored.green_1_fence": "Green1 Fence",
+      "item.colored.red": "Red",
+      "block.colored.yellow_1_leaves": "Yellow1 Leaves",
+      "block.colored.pink_slab": "Pink Slab",
+      "item.colored.black_armor_helmet": "Black Helmet",
+      "block.colored.white_ore": "White Ore",
+      "item.colored.red_armor_chestplate": "Red Chestplate",
+      "block.colored.black_1_slab": "Black1 Slab",
+      "item.colored.red_shovel": "Red Shovel",
+      "block.colored.pink_1_ore": "Pink1 Ore",
+      "item.colored.green_pickaxe": "Green Pickaxe",
+      "block.colored.pink_pressure_plate": "Pink Pressure Plate",
+      "item.colored.white_armor_helmet": "White Helmet",
+      "block.colored.green_ore": "Green Ore",
+      "item.colored.green_armor_leggings": "Green Leggings",
+      "item.colored.yellow_armor_boots": "Yellow Boots",
+      "block.colored.yellow_1_log": "Yellow1 Log",
+      "item.colored.black": "Black",
+      "item.colored.red_sword": "Red Sword",
+      "item.colored.black_armor_leggings": "Black Leggings",
+      "item.colored.green_armor_chestplate": "Green Chestplate",
+      "item.colored.cyan_axe": "Cyan Axe",
+      "block.colored.pink_button": "Pink Button",
+      "item.colored.yellow_pickaxe": "Yellow Pickaxe",
+      "item.colored.white_shovel": "White Shovel",
+      "block.colored.white_1_fence_gate": "White1 Fence Gate",
+      "block.colored.yellow_1_planks": "Yellow1 Planks",
+      "item.colored.white_sword": "White Sword",
+      "block.colored.yellow_ore": "Yellow Ore",
+      "item.colored.cyan_armor_chestplate": "Cyan Chestplate",
+      "block.colored.red_1_wood": "Red1 Wood",
+      "item.colored.pink_1": "Pink1",
+      "block.colored.white_1_slab": "White1 Slab",
+      "item.colored.black_shovel": "Black Shovel",
+      "item.colored.red_axe": "Red Axe",
+      "block.colored.yellow_1_wood": "Yellow1 Wood",
+      "block.colored.pink_log": "Pink Log",
+      "item.colored.black_sword": "Black Sword",
+      "item.colored.cyan_pickaxe": "Cyan Pickaxe",
+      "block.colored.green_1_log": "Green1 Log",
+      "item.colored.white_armor_boots": "White Boots",
+      "block.colored.black_1_button": "Black1 Button",
+      "item.colored.cyan_armor_boots": "Cyan Boots",
+      "block.colored.green_1_leaves": "Green1 Leaves",
+      "block.colored.white_1_leaves": "White1 Leaves",
+      "block.colored.red_1_leaves": "Red1 Leaves",
+      "block.colored.green_1_planks": "Green1 Planks",
+      "item.colored.red_armor_leggings": "Red Leggings",
+      "item.colored.pink_1_axe": "Pink1 Axe",
+      "block.colored.yellow_block": "Block of Yellow",
+      "block.colored.green_1_fence_gate": "Green1 Fence Gate",
+      "item.colored.red_pickaxe": "Red Pickaxe",
+      "block.colored.cyan_1_slab": "Cyan1 Slab",
+      "block.colored.green_1_slab": "Green1 Slab",
+      "item.colored.red_hoe": "Red Hoe",
+      "block.colored.yellow_1_button": "Yellow1 Button",
+      "item.colored.cyan_armor_helmet": "Cyan Helmet",
+      "block.colored.black_1_leaves": "Black1 Leaves",
+      "block.colored.pink_planks": "Pink Planks",
+      "item.colored.black_armor_chestplate": "Black Chestplate",
+      "item.colored.pink_1_shovel": "Pink1 Shovel",
+      "item.colored.green_axe": "Green Axe",
+      "block.colored.yellow_1_pressure_plate": "Yellow1 Pressure Plate",
+      "item.colored.pink_1_armor_leggings": "Pink1 Leggings",
+      "item.colored.pink_1_armor_chestplate": "Pink1 Chestplate",
+      "block.colored.white_1_wood": "White1 Wood",
+      "block.colored.black_1_fence": "Black1 Fence",
+      "block.colored.red_1_log": "Red1 Log",
+      "item.colored.yellow_sword": "Yellow Sword",
+      "item.colored.yellow_hoe": "Yellow Hoe",
+      "item.colored.green_hoe": "Green Hoe",
+      "block.colored.red_1_planks": "Red1 Planks",
+      "item.colored.pink_1_hoe": "Pink1 Hoe",
+      "block.colored.black_1_stairs": "Black1 Stairs",
+      "item.colored.yellow": "Yellow",
+      "block.colored.cyan_1_button": "Cyan1 Button",
+      "block.colored.pink_wood": "Pink Wood",
+      "item.colored.cyan_armor_leggings": "Cyan Leggings",
+      "item.colored.pink_1_armor_boots": "Pink1 Boots",
+      "item.colored.white_hoe": "White Hoe",
+      "block.colored.white_1_fence": "White1 Fence",
+      "block.colored.black_1_fence_gate": "Black1 Fence Gate",
+      "item.colored.white_pickaxe": "White Pickaxe",
+      "block.colored.red_1_pressure_plate": "Red1 Pressure Plate",
+      "block.colored.cyan_1_leaves": "Cyan1 Leaves",
+      "block.colored.cyan_1_stairs": "Cyan1 Stairs",
+      "block.colored.yellow_1_stairs": "Yellow1 Stairs",
+      "item.colored.pink_1_armor_helmet": "Pink1 Helmet",
+      "block.colored.black_1_wood": "Black1 Wood",
+      "item.colored.yellow_armor_chestplate": "Yellow Chestplate",
+      "item.colored.green_armor_boots": "Green Boots",
+      "block.colored.white_1_pressure_plate": "White1 Pressure Plate",
+      "block.colored.red_1_fence": "Red1 Fence",
+      "block.colored.red_block": "Block of Red",
+      "item.colored.white": "White",
+      "block.colored.cyan_1_fence": "Cyan1 Fence",
+      "block.colored.white_1_stairs": "White1 Stairs",
+      "block.colored.cyan_1_log": "Cyan1 Log",
+      "item.colored.black_axe": "Black Axe",
+      "block.colored.cyan_block": "Block of Cyan",
+      "item.colored.yellow_axe": "Yellow Axe",
+      "block.colored.red_1_button": "Red1 Button",
+      "item.colored.cyan_shovel": "Cyan Shovel",
+      "block.colored.white_1_log": "White1 Log",
+      "block.colored.green_1_pressure_plate": "Green1 Pressure Plate",
+      "block.colored.green_1_button": "Green1 Button",
+      "block.colored.red_1_slab": "Red1 Slab",
+      "item.colored.black_hoe": "Black Hoe",
+      "block.colored.white_1_button": "White1 Button",
+      "block.colored.pink_fence": "Pink Fence",
+      "block.colored.black_1_log": "Black1 Log",
+      "item.colored.yellow_shovel": "Yellow Shovel",
+      "block.colored.yellow_1_slab": "Yellow1 Slab",
+      "block.colored.yellow_1_fence": "Yellow1 Fence",
+      "item.colored.yellow_armor_leggings": "Yellow Leggings",
+      "block.colored.white_block": "Block of White",
+      "item.colored.cyan_sword": "Cyan Sword",
+      "block.colored.green_1_stairs": "Green1 Stairs",
+      "item.colored.white_armor_leggings": "White Leggings",
+      "block.colored.black_block": "Block of Black",
+      "item.colored.green": "Green",
+      "block.colored.yellow_1_fence_gate": "Yellow1 Fence Gate",
+      "item.colored.white_axe": "White Axe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "colored",
+    "modName": "colored",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.colored",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

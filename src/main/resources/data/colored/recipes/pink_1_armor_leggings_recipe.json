@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:pink_1"
+    },
+    "1": {
+      "item": "colored:pink_1"
+    },
+    "2": {
+      "item": "colored:pink_1"
+    },
+    "3": {
+      "item": "colored:pink_1"
+    },
+    "5": {
+      "item": "colored:pink_1"
+    },
+    "6": {
+      "item": "colored:pink_1"
+    },
+    "8": {
+      "item": "colored:pink_1"
+    }
+  },
+  "result": {
+    "item": "colored:pink_1_armor_leggings",
+    "count": 1
+  }
+}

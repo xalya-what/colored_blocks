@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "colored:blocks/cyan_ore",
+    "particle": "colored:blocks/cyan_ore"
+  }
+}

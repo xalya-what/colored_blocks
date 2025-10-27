@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "colored:blocks/white_ore_block",
+    "particle": "colored:blocks/white_ore_block"
+  }
+}

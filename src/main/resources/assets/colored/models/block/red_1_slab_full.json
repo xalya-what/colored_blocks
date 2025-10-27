@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "colored:blocks/red1_planks",
+    "top": "colored:blocks/red1_planks",
+    "side": "colored:blocks/red1_planks"
+  }
+}

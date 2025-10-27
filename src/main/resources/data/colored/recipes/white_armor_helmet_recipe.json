@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:white"
+    },
+    "1": {
+      "item": "colored:white"
+    },
+    "2": {
+      "item": "colored:white"
+    },
+    "3": {
+      "item": "colored:white"
+    },
+    "5": {
+      "item": "colored:white"
+    }
+  },
+  "result": {
+    "item": "colored:white_armor_helmet",
+    "count": 1
+  }
+}

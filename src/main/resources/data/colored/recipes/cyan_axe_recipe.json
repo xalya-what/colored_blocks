@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:cyan"
+    },
+    "1": {
+      "item": "colored:cyan"
+    },
+    "2": {
+      "item": "colored:cyan"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "colored:cyan_axe",
+    "count": 1
+  }
+}

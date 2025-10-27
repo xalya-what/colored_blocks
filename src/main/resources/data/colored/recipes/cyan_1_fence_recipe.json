@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:cyan_1_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "colored:cyan_1_planks"
+    },
+    "3": {
+      "item": "colored:cyan_1_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "colored:cyan_1_planks"
+    }
+  },
+  "result": {
+    "item": "colored:cyan_1_fence",
+    "count": 3
+  }
+}

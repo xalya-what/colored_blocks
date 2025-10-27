@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "colored:block/green_1_pressure_plate"
+    },
+    "powered=true": {
+      "model": "colored:block/green_1_pressure_plate_down"
+    }
+  }
+}

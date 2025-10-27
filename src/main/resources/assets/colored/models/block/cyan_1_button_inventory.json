@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "colored:blocks/cyan1_planks"
+  }
+}

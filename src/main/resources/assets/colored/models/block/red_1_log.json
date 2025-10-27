@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "colored:blocks/red1_log_top",
+    "up": "colored:blocks/red1_log_top",
+    "north": "colored:blocks/red1_log_side",
+    "east": "colored:blocks/red1_log_side",
+    "south": "colored:blocks/red1_log_side",
+    "west": "colored:blocks/red1_log_side",
+    "particle": "colored:blocks/red1_log_top"
+  }
+}

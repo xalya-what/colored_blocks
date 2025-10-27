@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "colored:black_block"
+    }
+  ],
+  "result": {
+    "item": "colored:black",
+    "count": 9
+  }
+}

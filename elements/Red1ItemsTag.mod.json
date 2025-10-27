@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Red1Wood"
+      },
+      {
+        "value": "CUSTOM:Red1Log"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "red1_log",
+    "namespace": "forge"
+  }
+}

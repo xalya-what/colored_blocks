@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:PinkWood"
+      },
+      {
+        "value": "CUSTOM:PinkLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "pink_log",
+    "namespace": "forge"
+  }
+}

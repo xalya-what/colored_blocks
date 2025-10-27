@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "colored:pink_1_block"
+    }
+  ],
+  "result": {
+    "item": "colored:pink_1",
+    "count": 9
+  }
+}

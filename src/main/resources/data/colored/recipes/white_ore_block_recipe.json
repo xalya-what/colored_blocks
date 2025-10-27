@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:white"
+    },
+    "1": {
+      "item": "colored:white"
+    },
+    "2": {
+      "item": "colored:white"
+    },
+    "3": {
+      "item": "colored:white"
+    },
+    "4": {
+      "item": "colored:white"
+    },
+    "5": {
+      "item": "colored:white"
+    },
+    "6": {
+      "item": "colored:white"
+    },
+    "7": {
+      "item": "colored:white"
+    },
+    "8": {
+      "item": "colored:white"
+    }
+  },
+  "result": {
+    "item": "colored:white_block",
+    "count": 1
+  }
+}

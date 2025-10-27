@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:red"
+    },
+    "1": {
+      "item": "colored:red"
+    },
+    "2": {
+      "item": "colored:red"
+    },
+    "3": {
+      "item": "colored:red"
+    },
+    "4": {
+      "item": "colored:red"
+    },
+    "5": {
+      "item": "colored:red"
+    },
+    "6": {
+      "item": "colored:red"
+    },
+    "7": {
+      "item": "colored:red"
+    },
+    "8": {
+      "item": "colored:red"
+    }
+  },
+  "result": {
+    "item": "colored:red_block",
+    "count": 1
+  }
+}

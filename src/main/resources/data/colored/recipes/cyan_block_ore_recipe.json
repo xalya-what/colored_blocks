@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "colored:cyan_block"
+    }
+  ],
+  "result": {
+    "item": "colored:cyan",
+    "count": 9
+  }
+}

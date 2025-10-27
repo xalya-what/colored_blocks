@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "colored:green_ore",
+    "colored:green_block",
+    "colored:red_ore",
+    "colored:red_block",
+    "colored:cyan_ore",
+    "colored:cyan_block",
+    "colored:yellow_ore",
+    "colored:yellow_block",
+    "colored:pink_1_ore",
+    "colored:pink_1_block",
+    "colored:white_ore",
+    "colored:white_block",
+    "colored:black_ore",
+    "colored:black_block"
+  ]
+}

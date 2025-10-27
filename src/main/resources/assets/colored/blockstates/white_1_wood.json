@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "colored:block/white_1_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "colored:block/white_1_wood"
+    },
+    "axis=z": {
+      "model": "colored:block/white_1_wood",
+      "x": 90
+    }
+  }
+}

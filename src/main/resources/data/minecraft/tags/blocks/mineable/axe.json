@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "colored:green_1_wood",
+    "colored:green_1_log",
+    "colored:green_1_planks",
+    "colored:red_1_wood",
+    "colored:red_1_log",
+    "colored:red_1_planks",
+    "colored:cyan_1_wood",
+    "colored:cyan_1_log",
+    "colored:cyan_1_planks",
+    "colored:yellow_1_wood",
+    "colored:yellow_1_log",
+    "colored:yellow_1_planks",
+    "colored:pink_wood",
+    "colored:pink_log",
+    "colored:pink_planks",
+    "colored:white_1_wood",
+    "colored:white_1_log",
+    "colored:white_1_planks",
+    "colored:black_1_wood",
+    "colored:black_1_log",
+    "colored:black_1_planks"
+  ]
+}

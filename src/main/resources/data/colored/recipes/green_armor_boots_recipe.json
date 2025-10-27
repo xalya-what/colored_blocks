@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:green"
+    },
+    "2": {
+      "item": "colored:green"
+    },
+    "3": {
+      "item": "colored:green"
+    },
+    "5": {
+      "item": "colored:green"
+    }
+  },
+  "result": {
+    "item": "colored:green_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "colored:blocks/white1_log_side",
+    "particle": "colored:blocks/white1_log_side"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:pink_1"
+    },
+    "2": {
+      "item": "colored:pink_1"
+    },
+    "3": {
+      "item": "colored:pink_1"
+    },
+    "4": {
+      "item": "colored:pink_1"
+    },
+    "5": {
+      "item": "colored:pink_1"
+    },
+    "6": {
+      "item": "colored:pink_1"
+    },
+    "7": {
+      "item": "colored:pink_1"
+    },
+    "8": {
+      "item": "colored:pink_1"
+    }
+  },
+  "result": {
+    "item": "colored:pink_1_armor_chestplate",
+    "count": 1
+  }
+}

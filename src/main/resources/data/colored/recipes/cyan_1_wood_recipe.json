@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:cyan_1_log"
+    },
+    "1": {
+      "item": "colored:cyan_1_log"
+    },
+    "2": {
+      "item": "colored:cyan_1_log"
+    },
+    "3": {
+      "item": "colored:cyan_1_log"
+    }
+  },
+  "result": {
+    "item": "colored:cyan_1_wood",
+    "count": 3
+  }
+}

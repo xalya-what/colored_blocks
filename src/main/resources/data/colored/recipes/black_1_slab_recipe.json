@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "colored:black_1_planks"
+    },
+    "1": {
+      "item": "colored:black_1_planks"
+    },
+    "2": {
+      "item": "colored:black_1_planks"
+    }
+  },
+  "result": {
+    "item": "colored:black_1_slab",
+    "count": 6
+  }
+}

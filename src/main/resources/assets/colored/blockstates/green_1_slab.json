@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "colored:block/green_1_slab"
+    },
+    "type=top": {
+      "model": "colored:block/green_1_slab_top"
+    },
+    "type=double": {
+      "model": "colored:block/green_1_slab_full"
+    }
+  }
+}

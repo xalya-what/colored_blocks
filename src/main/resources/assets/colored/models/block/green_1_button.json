@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "colored:blocks/green1_planks"
+  }
+}
